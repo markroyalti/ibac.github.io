@@ -1388,7 +1388,7 @@ body {
   text-align: center;
 }
 .cid-qWf3hdqjHZ H3 {
-  text-align: right;
+  text-align: center;
 }
 .cid-qWf3hdqjHZ H2 {
   text-align: center;
@@ -2074,4 +2074,7 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qWaFvkcjBV P {
+  text-align: left;
 }
